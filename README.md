@@ -12,7 +12,7 @@ pip install -r requirements.txt
 - Run application:
 
 ```shell
-python manage.py runserver 8000
+python manage.py runserver
 ```
 
 ## Usage
