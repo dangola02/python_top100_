@@ -12,7 +12,7 @@ pip install -r requirements.txt
 - Run application:
 
 ```shell
-python3 manage.py runserver 8000
+python manage.py runserver 8000
 ```
 
 ## Usage
@@ -20,3 +20,12 @@ python3 manage.py runserver 8000
 Just run Application and see Pie chart, Linear Chart and Bar Chart of top 100 accounts.
 
 ## Example
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78271298/153231002-06ff2e1c-4b54-488e-8446-4f500fca907b.jpg" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78271298/153231806-8fa352b3-5474-4e14-a901-0b5863257e50.jpg" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78271298/153231541-c077586f-d945-4bb8-b53c-98ed21e307b8.jpg" />
+</p>
